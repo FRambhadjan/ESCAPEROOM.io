@@ -1,0 +1,49 @@
+body {
+    background-color: black;
+}
+
+#story {
+    height: 200px;
+    width: 500px;
+    border: 5px solid red;
+    background-color: black;
+    color: red;
+    margin: auto;
+    margin-top: 390px;
+    font-size: 15pt;
+    padding: 10px;
+}
+
+#enter {
+    height: 50px;
+    width: 150px;
+    border: 5px solid red;
+    color: red;
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 17pt;
+}
+
+#block {
+    height: 800px;
+    width: 1000px;
+    border: 5px solid red;
+    margin: auto;
+    margin-top: 100px;
+    background-image: url(../img/house.jpeg);
+    background-size: cover;
+
+}
+
+#rules {
+    height: 160px;
+    width: 400px;
+    border: 5px solid red;
+    background-color: black;
+    color: red;
+    margin: auto;
+    text-align: center;
+    margin-top: 15px;
+    font-size: 15pt;
+}

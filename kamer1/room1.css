@@ -1,0 +1,54 @@
+body {
+    background-color: black;
+}
+
+#block {
+    height: 800px;
+    width: 1000px;
+    border: 5px solid red;
+    margin: auto;
+    margin-top: 100px;
+    background-image: url(../img/room1hall.jpeg);
+    background-size: 1200px;
+}
+
+#room1door1 {
+    height: 500px;
+    width: 85px;
+
+    border: transparent;
+    background-color: transparent;
+    color: transparent;
+
+    margin-left: 300px;
+    margin-top: 200px;
+    font-size: 15pt;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#room1door2 {
+    height: 500px;
+    width: 65px;
+    border: transparent;
+    background-color: transparent;
+    color: transparent;
+    margin-left: 800px;
+    margin-top: -500px;
+    font-size: 15pt;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#room1door3 {
+    height: 300px;
+    width: 220px;
+    border: transparent;
+    background-color: transparent;
+    color: transparent;
+    margin-left: 500px;
+    margin-top: -350px;
+    font-size: 15pt;
+    padding: 10px;
+    cursor: pointer;
+}

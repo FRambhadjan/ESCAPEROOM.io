@@ -1,0 +1,52 @@
+body {
+    background-color: black;
+}
+
+#block {
+    height: 678px;
+    width: 1000px;
+    border: 5px solid red;
+    margin: auto;
+    margin-top: 100px;
+    background-image: url(../img/Room1door2.jpeg);
+    background-size: 1000px;
+    position: relative;
+}
+
+#gobackbutton {
+    height: 50px;
+    width: 100px;
+    cursor: pointer;
+    background-color: black;
+    color: red;
+    text-align: center;
+    margin-top: 0px;
+    border: 5px solid red;
+}
+
+#locker {
+    height: 100px;
+    width: 140px;
+    cursor: pointer;
+    background-color: transparent;
+    color: transparent;
+    text-align: center;
+    margin-top: 430px;
+    margin-left: 210px;
+
+}
+
+.oldpaper {
+    height: 300px;
+    width: 300px;
+    margin-left: 700px;
+    margin-top: -80px;
+    position: absolute;
+
+}
+
+.paper {
+    position: absolute;
+    margin-left: 750px;
+    margin-top: -25px;
+}
